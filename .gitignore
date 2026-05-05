@@ -1,0 +1,13 @@
+
+# Virtual environment
+confbak-venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Output data
+output/backups/
+
+# Logs
+*.log
